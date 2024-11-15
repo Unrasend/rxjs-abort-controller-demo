@@ -1,7 +1,7 @@
 {
   "name": "search-tabs-demo",
   "version": "1.0.0",
-  "description": "Search tabs demo with TypeScript",
+  "description": "Search tabs demo",
   "source": "index.html",
   "scripts": {
     "start": "ws"
